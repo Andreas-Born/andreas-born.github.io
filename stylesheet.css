@@ -278,7 +278,13 @@ div#infowrapper {
         padding-right: 30px;
         padding-left: 3px;
         }
+.content_subtext {
 
+    padding-left:30px;
+    padding-bottom:3px;
+    margin-top:3px;
+    font-size:13px;
+}
 div.infotitle {font-family: 'Helvetica', sans-serif;
               margin-bottom:5px;
               margin-top:10px;
