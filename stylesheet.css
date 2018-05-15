@@ -312,10 +312,13 @@ div.infocontent { font-family: 'Helvetica', sans-serif;
 
 div.infocontent a {
     color:#A9A9A9;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
 }
 
 div.infocontent a:hover {
-
+    opacity: 1;
+    filter: alpha(opacity=100);
     color: #111111;
 }
 
