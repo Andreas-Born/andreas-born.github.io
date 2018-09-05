@@ -49,7 +49,7 @@ p     {font-size:13px;
         padding:0px 10px;}
 
 @viewport {
-    width: extend-to-zoom 800px;
+    width: 600px auto;
     min-zoom: 0.25;
     max-zoom: 5;
 }
@@ -194,6 +194,7 @@ div#name {
 div#wrapper {
     max-width: 100vw;
     width: 100%;
+
     display: flex;
     padding: auto;
     padding-top:3%;
@@ -229,7 +230,7 @@ div#info {
     width:40%;
     box-shadow: 0 0 2px 1px #999999;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .potrait {min-height: 150px;
             min-width: 150px;}
   }
