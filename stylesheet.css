@@ -165,7 +165,7 @@ div#back {width:60%;
   div#back {width:80%}
   }
 @media screen and (max-width: 800px) {
-  div#back {width:60%}
+  div#back {width:100%}
   }
 div#head  {
         border-bottom: 2px solid #181818;
