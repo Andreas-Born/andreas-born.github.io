@@ -48,7 +48,11 @@ p     {font-size:13px;
         margin:0px;
         padding:0px 10px;}
 
-
+@viewport {
+    width: extend-to-zoom 800px;
+    min-zoom: 0.25;
+    max-zoom: 5;
+}
 
 .navigation {
     font-family: 'Helvetica', sans-serif;
