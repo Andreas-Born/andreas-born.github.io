@@ -330,6 +330,7 @@ div.infocontent a:hover {
     opacity: 1;
     filter: alpha(opacity=100);
     color: #111111;
+    
 }
 
 div.logo { font-family: 'Helvetica', sans-serif;
