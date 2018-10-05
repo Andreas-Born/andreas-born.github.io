@@ -1,5 +1,5 @@
 body {
-    font-family:  'Helvetica', sans-serif;
+    font-family:  'Open Sans', sans-serif;
     /*letter-spacing:1px; */
     text-align:left;
     font-weight: 400;
@@ -15,17 +15,17 @@ table {border:0px;
        margin:0px;
        text-align:left;}
 
-td    {font-family: 'Helvetica', sans-serif;
+td    {font-family: 'Open Sans', sans-serif;
        vertical-align:top;
        padding-top:7px;
        font-size:12px;}
 
-a     { font-family: 'Helvetica', sans-serif;
+a     { font-family: 'Open Sans', sans-serif;
          text-decoration:none;
          font-weight: 400;
          color:#004488;}
 h3    {position:relative;
-        font-family: 'Helvetica', sans-serif;
+        font-family: 'Open Sans', sans-serif;
         font-size:16px;
         font-weight: 300;
         margin-bottom:10px;
@@ -33,7 +33,7 @@ h3    {position:relative;
         color: #000000;}
 
 h4    {position:relative;
-       font-family: 'Helvetica', sans-serif;
+       font-family: 'Open Sans', sans-serif;
        font-size:14px;
        font-weight: 300;
        margin-bottom:0px;
@@ -41,7 +41,7 @@ h4    {position:relative;
        color: #336699;}
 
 p     {font-size:13px;
-        font-family: 'Helvetica', sans-serif;
+        font-family: 'Open Sans', sans-serif;
         text-align:justify;
         line-height:20px;
         font-weight:300;
@@ -91,6 +91,7 @@ p     {font-size:13px;
    display: none;
  }
 .navigation li a {
+    font-family: 'Helvetica', sans-serif;
     color: #383838;
     text-align: center;
     padding: 10px 10px;
@@ -283,7 +284,7 @@ div#infowrapper {
     justify-content: space-between;
     /*max-width: 90%;*/}
 .reseach_text {
-        font-size:11px;
+        font-size:12px;
         line-height: 130%;
         padding-right: 30px;
         padding-left: 3px;
