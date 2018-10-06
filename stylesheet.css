@@ -257,7 +257,7 @@ div.mainbody {
                 padding-left: 5%;
                 }
 @media screen and (max-width: 800px) {
-  div.mainbody {width:80%}
+  div.mainbody {width:90%}
   }
 
 div#lower    {
@@ -284,26 +284,31 @@ div#infowrapper {
     justify-content: space-between;
     /*max-width: 90%;*/}
 .reseach_text {
-        font-size:12px;
-        line-height: 130%;
-        padding-right: 30px;
-        padding-left:10px;
+    font-size:12px;
+    line-height: 130%;
+    padding-right:0px;
+    padding-left:20px;
         }
 .content_subtext {
-
-    padding-left:10px;
-    padding-right:10px;
+    padding-left:20px;
+    padding-right:20px;
     padding-bottom:3px;
     margin-top:3px;
+    margin-left:10px;
+
     font-size:13px;
 }
 @media screen and (max-width: 1200px) {
     .reseach_text {
-     line-height: 180%;
-        font-size:13px;
+    line-height: 180%;
+    font-size:13px;
+    padding-left:10px;
+
     }
     .content_subtext {
      font-size:14px;
+     padding-left:10px;
+
     }
 }
 @media screen and (max-width: 800px) {
