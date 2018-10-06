@@ -286,7 +286,7 @@ div#infowrapper {
 .reseach_text {
         font-size:12px;
         line-height: 130%;
-        padding-right: 30px;
+        padding-right: 15px;
         padding-left:30px;
         }
 .content_subtext {
@@ -295,6 +295,15 @@ div#infowrapper {
     padding-bottom:3px;
     margin-top:3px;
     font-size:13px;
+}
+@media screen and (max-width: 1000px) {
+    .reseach_text {
+     line-height: 180%;
+        font-size:13px;
+    }
+    .content_subtext {
+     font-size:14px;
+    }
 }
 div.infotitle {font-family: 'Helvetica', sans-serif;
               margin-bottom:5px;
