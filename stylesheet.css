@@ -296,13 +296,22 @@ div#infowrapper {
     margin-top:3px;
     font-size:13px;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1200px) {
     .reseach_text {
      line-height: 180%;
         font-size:13px;
     }
     .content_subtext {
      font-size:14px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .reseach_text {
+     line-height: 180%;
+        font-size:14px;
+    }
+    .content_subtext {
+     font-size:15px;
     }
 }
 div.infotitle {font-family: 'Helvetica', sans-serif;
