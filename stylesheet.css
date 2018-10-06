@@ -390,6 +390,7 @@ div.logo { font-family: 'Helvetica', sans-serif;
     div.logo  {
         margin-top: 25px;
         font-size:14px;
+        max-width: 0px;
     }
 }
 div.logo a{
