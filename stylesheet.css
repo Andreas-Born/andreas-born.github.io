@@ -386,6 +386,12 @@ div.logo { font-family: 'Helvetica', sans-serif;
                 overflow: hidden;
                 color:#A9A9A9;
                 }
+@media screen and (max-width: 800px) {
+    div.logo  {
+         max-width: 10px;
+        font-size:14px;
+    }
+}
 div.logo a{
     opacity: 0.5;
     filter: alpha(opacity=50);
