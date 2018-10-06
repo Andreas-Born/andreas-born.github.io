@@ -157,9 +157,6 @@ p     {font-size:13px;
 }
 /* End Styles for Naviagation*/
 
-
-
-
 div   {position:relative;  }
 
 div#back {width:60%;
@@ -219,7 +216,6 @@ div#info {
                 align-items: center;
                 align-content: center;
                 height: 50%;
-
 }
 
 .potrait {
@@ -295,7 +291,6 @@ div#infowrapper {
     padding-bottom:3px;
     margin-top:3px;
     margin-left:10px;
-
     font-size:13px;
 }
 @media screen and (max-width: 1200px) {
@@ -303,12 +298,11 @@ div#infowrapper {
     line-height: 180%;
     font-size:13px;
     padding-left:10px;
-
+    padding-right:20px;
     }
     .content_subtext {
      font-size:14px;
      padding-left:20px;
-
     }
 }
 @media screen and (max-width: 800px) {
