@@ -388,7 +388,7 @@ div.logo { font-family: 'Helvetica', sans-serif;
                 }
 @media screen and (max-width: 800px) {
     div.logo  {
-        margin-top: 15px;
+        margin-top: 25px;
         font-size:14px;
     }
 }
