@@ -293,6 +293,7 @@ div#infowrapper {
     margin-left:10px;
     font-size:14px;
 }
+
 @media screen and (max-width: 1200px) {
     .reseach_text {
     line-height: 180%;
@@ -315,19 +316,7 @@ div#infowrapper {
      font-size:15px;
     }
 }
-div.infotitle {font-family: 'Helvetica', sans-serif;
-              margin-bottom:5px;
-              margin-top:10px;
-              padding:2px;
-              padding-left:4px;
-              border-bottom:1px solid #dbdbdb;
-              font-size:11px;
-              font-weight: 400;
-              color: #111111;}
 
-div.infotitle a { color:#000000;
-                 font-weight: 400;}
-div.infotitle a:hover {color: #BBBBBB;  }
 
 
 div.infocontent { font-family: 'Helvetica', sans-serif;
@@ -397,9 +386,116 @@ div.logo a{
     opacity: 0.5;
     filter: alpha(opacity=50);
     }
-div.logo a:hover{
+div.logo a:hover {
     opacity: 1;
     filter: alpha(opacity=100);
 }
 
 
+/* Code for Buttons*/
+@charset "UTF-8";
+/*!
+ *
+ * bttn.css - https://ganapativs.github.io/bttn.css
+ * Version - 0.2.4
+ * Demo: https://bttn.surge.sh
+ *
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2016 Ganapati V S (@ganapativs)
+ *
+ */
+/* standalone - .bttn-bordered */
+
+.bttn-bordered {
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+    border-color: transparent;
+    background: transparent;
+    font-weight: 400;
+    cursor: pointer;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Helvetica', sans-serif;
+    padding: 3px 6px;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.4);
+    border-radius: 4px;
+    background: transparent;
+    color: #AAAA;
+    -webkit-transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
+    transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
+}
+.bttn-bordered:hover,
+.bttn-bordered:focus {
+  border-color: #AAAA;
+}
+.bttn-bordered.bttn-xs {
+  padding: 3px 8px;
+  font-size: 12px;
+  font-family: inherit;
+}
+.bttn-bordered.bttn-sm {
+  padding: 4px 10px;
+  font-size: 16px;
+  font-family: inherit;
+}
+.bttn-bordered.bttn-md {
+  font-size: 20px;
+  font-family: inherit;
+  padding: 5px 12px;
+}
+.bttn-bordered.bttn-lg {
+  padding: 8px 15px;
+  font-size: 24px;
+  font-family: inherit;
+}
+.bttn-bordered.bttn-default {
+  border-color: rgba(255,255,255,0.4);
+  color: #fff;
+}
+.bttn-bordered.bttn-default:hover,
+.bttn-bordered.bttn-default:focus {
+  border-color: rgba(255,255,255,0.7);
+}
+.bttn-bordered.bttn-primary {
+  border-color: rgba(29,137,255,0.4);
+  color: #1d89ff;
+}
+.bttn-bordered.bttn-primary:hover,
+.bttn-bordered.bttn-primary:focus {
+  border-color: rgba(29,137,255,0.7);
+}
+.bttn-bordered.bttn-warning {
+  border-color: rgba(254,171,58,0.4);
+  color: #feab3a;
+}
+.bttn-bordered.bttn-warning:hover,
+.bttn-bordered.bttn-warning:focus {
+  border-color: rgba(254,171,58,0.7);
+}
+.bttn-bordered.bttn-danger {
+  border-color: rgba(255,89,100,0.4);
+  color: #ff5964;
+}
+.bttn-bordered.bttn-danger:hover,
+.bttn-bordered.bttn-danger:focus {
+  border-color: rgba(255,89,100,0.7);
+}
+.bttn-bordered.bttn-success {
+  border-color: rgba(40,183,141,0.4);
+  color: #28b78d;
+}
+.bttn-bordered.bttn-success:hover,
+.bttn-bordered.bttn-success:focus {
+  border-color: rgba(40,183,141,0.7);
+}
+.bttn-bordered.bttn-royal {
+  border-color: rgba(189,45,245,0.4);
+  color: #bd2df5;
+}
+.bttn-bordered.bttn-royal:hover,
+.bttn-bordered.bttn-royal:focus {
+  border-color: rgba(189,45,245,0.7);
+}
