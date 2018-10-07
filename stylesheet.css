@@ -429,7 +429,8 @@ div.logo a:hover {
 }
 .bttn-bordered:hover,
 .bttn-bordered:focus {
-  border-color: #AAAA;
+    color: #BBBBBB;
+    border-color: #BBBBBB;
 }
 .bttn-bordered.bttn-xs {
   padding: 3px 8px;
