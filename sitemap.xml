@@ -1,37 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.andreas-born.com/</loc>
-  <lastmod>2018-06-11T06:39:17+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.andreas-born.com/index.html</loc>
-  <lastmod>2018-06-11T06:39:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.andreas-born.com/research.html</loc>
-  <lastmod>2018-06-11T06:39:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.andreas-born.com/teach.html</loc>
-  <lastmod>2018-06-11T06:39:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.andreas-born.com/CV%20Andreas%20Born.pdf</loc>
-  <lastmod>2018-06-11T06:39:17+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
-</urlset>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns1:urlset xmlns:ns1="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ns1:url>
+		<ns1:loc>https://www.andreas-born.com/</ns1:loc>
+		<ns1:lastmod>2018-10-15T06:39:17+00:00</ns1:lastmod>
+		<ns1:priority>1</ns1:priority>
+	</ns1:url>
+	<ns1:url>
+		<ns1:loc>https://www.andreas-born.com/research.html</ns1:loc>
+		<ns1:lastmod>2018-10-15T06:39:17+00:01</ns1:lastmod>
+		<ns1:priority>0.8</ns1:priority>
+	</ns1:url>
+	<ns1:url>
+		<ns1:loc>https://www.andreas-born.com/teach.html</ns1:loc>
+		<ns1:lastmod>2018-10-15T06:39:17+00:02</ns1:lastmod>
+		<ns1:priority>0.8</ns1:priority>
+	</ns1:url>
+	<ns1:url>
+		<ns1:loc>https://www.andreas-born.com/CV%20Andreas%20Born.pdf</ns1:loc>
+		<ns1:lastmod>2018-10-15T06:39:17+00:03</ns1:lastmod>
+		<ns1:priority>0.8</ns1:priority>
+	</ns1:url>
+</ns1:urlset>
