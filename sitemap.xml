@@ -2,22 +2,17 @@
 <ns1:urlset xmlns:ns1="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:url>
 		<ns1:loc>https://www.andreas-born.com/</ns1:loc>
-		<ns1:lastmod>2018-10-15T06:39:17+00:00</ns1:lastmod>
+		<ns1:lastmod>2023-05-01T06:39:17+00:00</ns1:lastmod>
 		<ns1:priority>1</ns1:priority>
 	</ns1:url>
 	<ns1:url>
 		<ns1:loc>https://www.andreas-born.com/research.html</ns1:loc>
-		<ns1:lastmod>2018-10-15T06:39:17+00:01</ns1:lastmod>
+		<ns1:lastmod>2023-05-01T06:39:17+00:01</ns1:lastmod>
 		<ns1:priority>0.8</ns1:priority>
 	</ns1:url>
 	<ns1:url>
 		<ns1:loc>https://www.andreas-born.com/teach.html</ns1:loc>
-		<ns1:lastmod>2018-10-15T06:39:17+00:02</ns1:lastmod>
-		<ns1:priority>0.8</ns1:priority>
-	</ns1:url>
-	<ns1:url>
-		<ns1:loc>https://www.andreas-born.com/CV%20Andreas%20Born.pdf</ns1:loc>
-		<ns1:lastmod>2018-10-15T06:39:17+00:03</ns1:lastmod>
+		<ns1:lastmod>2023-05-01T06:39:17+00:02</ns1:lastmod>
 		<ns1:priority>0.8</ns1:priority>
 	</ns1:url>
 </ns1:urlset>
